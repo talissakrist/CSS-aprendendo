@@ -187,3 +187,18 @@ h2 {
     padding: 10px 2px;
     /* 10px 20px 10px 2px; */
 }
+
+.without-border-box {
+    background-color: #444;
+    color: #fff;
+    width: 400px;
+    padding: 50;
+}
+
+.border-box {
+    background-color: #666;
+    color: #fff;
+    width: 400px;
+    padding: 50;
+    box-sizing: border-box;
+}
