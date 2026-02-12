@@ -376,3 +376,14 @@ h2 {
     width: 100px;
     height: 100px;
 }
+
+/* Eu sou relativo */
+.relative {
+    position: relative;
+    background-color: #221;
+    color: #fff;
+    width: 100px;
+    height: 100px;
+    top: 100px;
+    left: 40px;
+}
