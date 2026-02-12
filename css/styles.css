@@ -202,3 +202,10 @@ h2 {
     padding: 50;
     box-sizing: border-box;
 }
+
+/* borde */
+
+.border {
+    border: 5px solid red;
+    padding: 10px;
+}
