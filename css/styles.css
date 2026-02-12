@@ -387,3 +387,14 @@ h2 {
     top: 100px;
     left: 40px;
 }
+
+/* Absolute */
+.absolute {
+    position: absolute;
+     background-color: #964;
+    color: #fff;
+    width: 100px;
+    height: 100px;
+    top: 2px;
+    height: 2px;
+}
