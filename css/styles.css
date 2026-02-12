@@ -319,3 +319,20 @@ h2 {
 .oblique {
     font-style: oblique;
 }
+
+/* Fonte weight */
+.thin, .bold, .bolder {
+    font-family: helvetica;
+}
+
+.thin {
+    font-weight: 100px;
+}
+
+.bold {
+    font-weight: 600px;
+}
+
+.bolder {
+    font-weight: 900px;
+}
