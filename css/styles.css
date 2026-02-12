@@ -11,3 +11,9 @@ h3{
 p{
     color: blueviolet;
 }
+
+.paragrafo{
+    background-color: pink;
+    color:aquamarine;
+    padding: 5px;
+}
