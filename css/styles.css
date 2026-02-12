@@ -426,3 +426,14 @@ h2 {
     bottom: 10px;
     right: 10px;
 }
+
+.fixed {
+    width: 300px;
+    height: 300px;
+    border: 1px solid blue;
+    background-color: #851;
+    margin-top: 120px;
+    position: fixed;
+    top: 50px;
+    right: 100px;
+}
