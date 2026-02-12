@@ -326,13 +326,13 @@ h2 {
 }
 
 .thin {
-    font-weight: 100px;
+    font-weight: 100;
 }
 
 .bold {
-    font-weight: 600px;
+    font-weight: 600;
 }
 
 .bolder {
-    font-weight: 900px;
+    font-weight: 900;
 }
