@@ -368,3 +368,11 @@ h2 {
 .invisible {
     display: none;
 }
+
+.static {
+    position: static;
+    background-color: #391;
+    color: #fff;
+    width: 100px;
+    height: 100px;
+}
