@@ -362,3 +362,9 @@ h2 {
     display: block;
     margin: 10px;
 }
+
+/* Escondendo elementos */
+
+.invisible {
+    display: none;
+}
