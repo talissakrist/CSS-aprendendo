@@ -17,7 +17,7 @@ h3{
 .paragrafo{
     background-color: pink;
     color:aquamarine;
-    padding: 5px;
+   /* padding: 5px; */
 }
 
 /* Ids */
