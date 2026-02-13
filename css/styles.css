@@ -121,5 +121,7 @@ h2 {
 /* BG image */
 
 .bg-image {
-    background-image: url("../css/img/bridge.jpg");
+    background-image: url("../css/img/nature.jpg");
+    padding: 10px;
+    color:#FFF;
 }
