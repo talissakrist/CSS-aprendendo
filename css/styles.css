@@ -27,3 +27,13 @@ p{
     color: yellow;
     padding: 10px;
 }
+
+/* Ordem das regras */
+
+h2{
+    border-bottom: 5px solid red;
+}
+
+.titulo{
+    border-bottom: 5px solid red;
+}
