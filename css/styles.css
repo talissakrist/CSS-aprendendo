@@ -101,12 +101,12 @@ h2 {
 /* Background opacity */
 
 .bg-opacity {
-    background-color: red;
-    opacity: 0.6;
+  background-color: green;
+  opacity: 0.2;
 }
 
 .bg-opacity-2 {
-    background-color: #999;
-    color: #000;
-    opacity: 0.8;
+  background-color: #999;
+  color: #000;
+  opacity: 0.8;
 }
