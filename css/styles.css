@@ -117,3 +117,9 @@ h2 {
     background-color: rgba(90, 120, 20, 0.2);
     color: #000;
 }
+
+/* BG image */
+
+.bg-image {
+    background-image: url("../css/img/bridge.jpg");
+}
