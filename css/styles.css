@@ -37,3 +37,8 @@ h2{
 .titulo{
     border-bottom: 5px solid red;
 }
+
+/* Nome da cor */
+.class-name{
+    color: crimson;
+}
