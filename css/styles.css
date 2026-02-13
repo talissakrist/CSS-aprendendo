@@ -89,11 +89,11 @@ h2 {
 
 /* Background-color */
 .bg {
-    background-color: #000;
-    color: yellow;
+  background-color: #000;
+  color: yellow;
 }
 
-.bg-2{
-    background-color: rgb(100, 20, 25);
-    color: #20a152
+.bg-2 {
+  background-color: rgb(200, 20, 40);
+  color: #00eaff;
 }
