@@ -62,10 +62,17 @@ h2 {
     color: #a65
 }
 
+/* RGB */
 .rgb {
     color: rgb(255, 0, 0);
 }
 
 .mixed-rgb {
     color: rgb(222, 55, 23);
+}
+
+/* RGBA */
+
+.rgba {
+    color: rgba(100, 199, 45, 0.3);
 }
