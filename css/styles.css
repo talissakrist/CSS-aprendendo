@@ -49,5 +49,15 @@ h2{
 }
 
 .hex-2{
-    color: #52f222
+    color: #9cbe92
+}
+
+/* Aprofundando em hex */
+
+.simple-hex{
+    color: #333
+}
+
+.simple-hex-2{
+    color: #a65
 }
