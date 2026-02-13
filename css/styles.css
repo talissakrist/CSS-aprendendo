@@ -147,5 +147,6 @@ h2 {
 }
 
 .height-width-2{
-
+    height: 300 px;
+    background-color: #333;
 }
