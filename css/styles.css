@@ -8,9 +8,9 @@ h3{
     color: green;
 }
 
-p{
+/*p{
     color: blueviolet;
-}
+}*/
 
 
 /*Classes*/
@@ -35,7 +35,7 @@ h2{
 }
 
 .titulo{
-    border-bottom: 5px solid red;
+    border-bottom: 5px solid blue;
 }
 
 /* Nome da cor */
