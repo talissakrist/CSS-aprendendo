@@ -97,3 +97,16 @@ h2 {
   background-color: rgb(200, 20, 40);
   color: #00eaff;
 }
+
+/* Background opacity */
+
+.bg-opacity {
+    background-color: red;
+    opacity: 0.6;
+}
+
+.bg-opacity-2 {
+    background-color: #999;
+    color: #000;
+    opacity: 0.8;
+}
