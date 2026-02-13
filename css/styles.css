@@ -30,34 +30,42 @@ h3{
 
 /* Ordem das regras */
 
-h2{
+h2 {
     border-bottom: 5px solid red;
 }
 
-.titulo{
+.titulo {
     border-bottom: 5px solid blue;
 }
 
 /* Nome da cor */
-.class-name{
+.class-name {
     color: crimson;
 }
 
 /* hex */
-.hex{
+.hex {
     color: #55a398;
 }
 
-.hex-2{
+.hex-2 {
     color: #9cbe92
 }
 
 /* Aprofundando em hex */
 
-.simple-hex{
+.simple-hex {
     color: #333
 }
 
-.simple-hex-2{
+.simple-hex-2 {
     color: #a65
+}
+
+.rgb {
+    color: rgb(255, 0, 0);
+}
+
+.mixed-rgb {
+    color: rgb(222, 55, 23);
 }
