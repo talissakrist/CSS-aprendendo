@@ -210,7 +210,8 @@ h2 {
     padding: 10px;
 }
 
-border-2 {
+.border-2 {
     border: 2px dotted #931;
     padding: 25px;
 }
+
